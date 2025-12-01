@@ -11,7 +11,7 @@
 
 - 💻 I’m a **Full-Stack Developer** focused on **.NET, SQL, React, Astro, and Mobile with React Native**.  
 - 🎯 Currently working on **RAMI: Multiverse Stories**, an interactive story-reading platform with branching narratives.
-- 📈 My goal for 2025:  
+- 📈 My goal for 2026:  
   - 🔥 **Green GitHub every day (1 commit at least)**  
   - 🇬🇧 **Reach English level C1**  
 - 🧠 I’m invested in system design, clean architecture, testing, and building scalable APIs.
@@ -63,7 +63,7 @@ Small projects where I experiment with testing, patterns, SOLID, repositories, s
 
 ---
 
-## 🔥 2025 Goals
+## 🔥 2026 Goals
 
 - 🌱 Commit every day (make my GitHub fully green)
 - 📚 Improve my Software Architecture skills
