@@ -63,15 +63,6 @@ Small projects where I experiment with testing, patterns, SOLID, repositories, s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanfranco&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanfranco&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ## 🔥 2025 Goals
 
 - 🌱 Commit every day (make my GitHub fully green)
