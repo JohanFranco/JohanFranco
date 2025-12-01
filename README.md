@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Johan Franco 👋</h1>
+<h1 align="center">Hi, I'm JoJo 👋</h1>
 
 <p align="center">
   <b>Software Developer · .NET & Full-Stack · Guadalajara, México</b><br>
@@ -11,24 +11,19 @@
 
 - 💻 I’m a **Full-Stack Developer** focused on **.NET, SQL, React, Astro, and Mobile with React Native**.  
 - 🎯 Currently working on **RAMI: Multiverse Stories**, an interactive story-reading platform with branching narratives.
-- 📈 My goal for 2026:  
-  - 🔥 **Green GitHub every day (1 commit at least)**  
-  - 🇬🇧 **Reach English level C1**  
 - 🧠 I’m invested in system design, clean architecture, testing, and building scalable APIs.
-- 🎮 Gamer, content creator, and Minecraft enjoyer.
+- 🎮 Gamer, Anime fan, and Minecraft enjoyer.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Back-End**
-- C# · .NET 6–8 · Entity Framework · SQL Server · MySQL  
+- C# · .NET 4–8 · Entity Framework · SQL Server · MySQL · Firebase    
 - REST APIs · Clean Architecture · CQRS · Background Services  
-- SAPUI5 (legacy) · SAP MII · PDFMake (advanced generation)
 
 **Front-End**
-- React · Astro · TailwindCSS · TypeScript · React Native  
-- Animations (Framer Motion, RN Animatable)  
+- React · Astro · TailwindCSS · TypeScript · React Native  · UI5
 - Responsive UI · Modern minimal design
 
 **Databases**
